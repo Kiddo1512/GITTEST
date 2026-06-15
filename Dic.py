@@ -1,2 +1,2 @@
-a = { " Name ": "John", "Age": 30, "City": "New York" }
+a = { " Name ": "Rittwika", "Age": 23, "City": "london" }
 print( " The name is: " , a[" Name "])
